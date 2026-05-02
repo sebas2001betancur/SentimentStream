@@ -22,9 +22,10 @@ pipeline {
             }
         }
 
-        stage('Ejecutar Spark NLP') {
+stage('Ejecutar Spark NLP') {
     steps {
         sh '''
+            cp data/dataset_sentimientos_500.csv spark/
             docker build -t sentimentstream-spark ./spark
             docker run --rm \
               --network sentimentstream_default \
