@@ -1,6 +1,5 @@
 services:
 
-  # ── MongoDB: base de datos de predicciones ─────────────────
   mongodb:
     image: mongo:6.0
     container_name: mongodb
@@ -15,22 +14,6 @@ services:
       timeout: 5s
       retries: 5
 
-  # ── Spark: corre el job NLP y termina (no es un servicio permanente) ─
-  spark:
-    build:
-      context: ./spark
-      dockerfile: Dockerfile
-    container_name: spark_job
-    depends_on:
-      mongodb:
-        condition: service_healthy
-    environment:
-      - MONGO_URI=mongodb://mongodb:27017/
-    volumes:
-      - ./data:/data
-    restart: "no"
-
-  # ── API Flask: expone predicciones via REST ─────────────────
   api:
     build:
       context: ./api
@@ -45,5 +28,20 @@ services:
       mongodb:
         condition: service_healthy
 
+  jenkins:
+    image: jenkins/jenkins:lts
+    container_name: jenkins
+    restart: unless-stopped
+    user: root
+    ports:
+      - "8080:8080"
+      - "50001:50000"
+    volumes:
+      - jenkins_home:/var/jenkins_home
+      - /var/run/docker.sock:/var/run/docker.sock
+    environment:
+      - DOCKER_HOST=unix:///var/run/docker.sock
+
 volumes:
   mongo_data:
+  jenkins_home:

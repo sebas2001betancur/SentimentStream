@@ -67,10 +67,7 @@ Espera ~30 segundos a que MongoDB esté listo.
 ### Paso 2 — Ejecutar el job de Spark
 
 ```bash
-docker exec -it spark_master spark-submit \
-  --master local[*] \
-  --packages org.mongodb.spark:mongo-spark-connector_2.12:10.2.1 \
-  /spark_scripts/sentiment_job.py
+docker exec -it spark_job spark-submit --master local[*] --packages org.mongodb.spark:mongo-spark-connector_2.12:10.2.1 /spark_scripts/sentiment_job.py
 ```
 
 > El job tarda 1-3 minutos. Verás en consola el Accuracy y F1-Score al finalizar.

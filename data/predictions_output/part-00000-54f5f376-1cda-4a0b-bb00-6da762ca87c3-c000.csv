@@ -1,0 +1,503 @@
+id,texto,etiqueta,sentimiento_predicho,correcto,fecha_proceso
+0,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+1,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+2,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+3,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+4,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+5,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+6,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+7,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+8,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+9,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+10,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+11,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+12,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+13,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+14,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+15,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+16,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+17,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+18,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+19,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+20,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+21,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+22,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+23,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+24,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+25,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+26,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+27,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+28,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+29,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+30,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+31,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+32,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+33,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+34,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+35,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+36,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+37,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+38,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+39,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+40,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+41,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+42,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+43,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+44,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+45,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+46,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+47,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+48,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+49,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+50,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+51,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+52,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+53,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+54,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+55,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+56,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+57,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+58,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+59,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+60,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+61,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+62,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+63,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+64,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+65,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+66,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+67,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+68,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+69,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+70,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+71,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+72,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+73,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+74,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+75,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+76,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+77,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+78,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+79,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+80,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+81,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+82,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+83,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+84,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+85,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+86,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+87,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+88,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+89,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+90,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+91,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+92,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+93,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+94,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+95,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+96,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+97,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+98,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+99,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+100,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+101,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+102,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+103,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+104,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+105,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+106,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+107,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+108,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+109,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+110,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+111,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+112,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+113,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+114,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+115,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+116,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+117,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+118,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+119,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+120,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+121,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+122,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+123,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+124,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+125,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+126,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+127,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+128,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+129,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+130,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+131,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+132,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+133,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+134,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+135,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+136,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+137,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+138,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+139,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+140,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+141,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+142,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+143,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+144,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+145,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+146,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+147,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+148,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+149,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+150,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+151,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+152,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+153,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+154,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+155,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+156,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+157,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+158,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+159,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+160,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+161,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+162,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+163,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+164,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+165,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+166,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+167,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+168,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+169,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+170,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+171,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+172,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+173,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+174,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+175,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+176,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+177,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+178,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+179,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+180,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+181,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+182,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+183,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+184,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+185,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+186,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+187,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+188,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+189,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+190,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+191,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+192,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+193,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+194,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+195,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+196,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+197,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+198,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+199,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+200,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+201,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+202,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+203,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+204,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+205,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+206,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+207,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+208,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+209,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+210,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+211,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+212,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+213,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+214,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+215,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+216,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+217,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+218,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+219,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+220,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+221,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+222,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+223,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+224,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+225,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+226,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+227,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+228,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+229,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+230,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+231,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+232,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+233,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+234,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+235,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+236,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+237,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+238,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+239,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+240,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+241,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+242,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+243,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+244,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+245,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+246,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+247,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+248,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+249,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+250,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+251,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+252,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+253,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+254,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+255,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+256,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+257,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+258,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+259,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+260,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+261,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+262,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+263,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+264,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+265,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+266,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+267,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+268,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+269,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+270,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+271,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+272,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+273,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+274,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+275,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+276,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+277,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+278,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+279,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+280,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+281,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+282,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+283,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+284,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+285,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+286,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+287,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+288,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+289,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+290,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+291,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+292,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+293,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+294,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+295,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+296,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+297,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+298,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+299,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+300,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+301,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+302,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+303,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+304,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+305,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+306,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+307,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+308,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+309,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+310,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+311,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+312,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+313,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+314,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+315,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+316,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+317,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+318,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+319,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+320,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+321,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+322,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+323,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+324,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+325,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+326,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+327,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+328,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+329,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+330,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+331,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+332,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+333,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+334,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+335,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+336,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+337,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+338,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+339,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+340,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+341,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+342,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+343,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+344,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+345,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+346,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+347,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+348,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+349,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+350,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+351,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+352,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+353,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+354,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+355,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+356,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+357,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+358,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+359,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+360,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+361,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+362,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+363,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+364,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+365,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+366,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+367,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+368,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+369,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+370,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+371,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+372,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+373,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+374,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+375,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+376,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+377,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+378,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+379,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+380,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+381,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+382,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+383,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+384,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+385,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+386,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+387,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+388,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+389,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+390,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+391,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+392,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+393,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+394,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+395,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+396,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+397,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+398,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+399,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+400,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+401,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+402,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+403,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+404,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+405,the performance is outstanding,positivo,positivo,true,2026-05-02T03:37:06.893Z
+406,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+407,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+408,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+409,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+410,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+411,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+412,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+413,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+414,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+415,keeps crashing every time,negativo,negativo,true,2026-05-02T03:37:06.893Z
+416,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+417,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+418,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+419,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+420,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+421,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+422,no major changes were introduced,neutral,neutral,true,2026-05-02T03:37:06.893Z
+423,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+424,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+425,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+426,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+427,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+428,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+429,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+430,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+431,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+432,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+433,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+434,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+435,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+436,it made my work harder,negativo,negativo,true,2026-05-02T03:37:06.893Z
+437,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+438,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+439,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+440,the project deadline is next monday,neutral,neutral,true,2026-05-02T03:37:06.893Z
+441,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+442,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+443,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+444,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+445,terrible experience,negativo,negativo,true,2026-05-02T03:37:06.893Z
+446,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+447,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+448,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+449,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+450,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+451,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+452,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+453,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+454,not user friendly at all,negativo,negativo,true,2026-05-02T03:37:06.893Z
+455,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+456,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+457,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+458,documentation has been updated,neutral,neutral,true,2026-05-02T03:37:06.893Z
+459,great support from the team,positivo,positivo,true,2026-05-02T03:37:06.893Z
+460,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+461,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+462,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+463,very disappointed with the performance,negativo,negativo,true,2026-05-02T03:37:06.893Z
+464,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+465,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+466,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+467,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+468,excellent usability and speed,positivo,positivo,true,2026-05-02T03:37:06.893Z
+469,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+470,the server uptime is,neutral,neutral,true,2026-05-02T03:37:06.893Z
+471,everything works perfectly,positivo,positivo,true,2026-05-02T03:37:06.893Z
+472,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+473,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+474,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+475,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+476,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+477,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+478,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+479,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+480,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+481,i would not recommend it,negativo,positivo,false,2026-05-02T03:37:06.893Z
+482,the file was uploaded successfully,neutral,neutral,true,2026-05-02T03:37:06.893Z
+483,i love this product,positivo,positivo,true,2026-05-02T03:37:06.893Z
+484,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+485,the meeting is scheduled for am,neutral,neutral,true,2026-05-02T03:37:06.893Z
+486,very satisfied with the quality,positivo,positivo,true,2026-05-02T03:37:06.893Z
+487,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+488,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+489,amazing experience with the service,positivo,positivo,true,2026-05-02T03:37:06.893Z
+490,too many bugs and errors,negativo,negativo,true,2026-05-02T03:37:06.893Z
+491,user logged in from a new device,neutral,neutral,true,2026-05-02T03:37:06.893Z
+492,this platform helped me grow,positivo,positivo,true,2026-05-02T03:37:06.893Z
+493,poor customer service,negativo,negativo,true,2026-05-02T03:37:06.893Z
+494,version is now available,neutral,neutral,true,2026-05-02T03:37:06.893Z
+495,highly recommend this tool,positivo,positivo,true,2026-05-02T03:37:06.893Z
+496,this is the worst tool ive used,negativo,negativo,true,2026-05-02T03:37:06.893Z
+497,this update includes bug fixes,neutral,neutral,true,2026-05-02T03:37:06.893Z
+498,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
+499,extremely slow and unresponsive,negativo,negativo,true,2026-05-02T03:37:06.893Z
+500,system maintenance will occur tonight,neutral,neutral,true,2026-05-02T03:37:06.893Z
+501,truly a game changer,positivo,positivo,true,2026-05-02T03:37:06.893Z
