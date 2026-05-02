@@ -1,0 +1,49 @@
+services:
+
+  # ── MongoDB: base de datos de predicciones ─────────────────
+  mongodb:
+    image: mongo:6.0
+    container_name: mongodb
+    restart: unless-stopped
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    healthcheck:
+      test: ["CMD", "mongosh", "--eval", "db.adminCommand('ping')"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  # ── Spark: corre el job NLP y termina (no es un servicio permanente) ─
+  spark:
+    build:
+      context: ./spark
+      dockerfile: Dockerfile
+    container_name: spark_job
+    depends_on:
+      mongodb:
+        condition: service_healthy
+    environment:
+      - MONGO_URI=mongodb://mongodb:27017/
+    volumes:
+      - ./data:/data
+    restart: "no"
+
+  # ── API Flask: expone predicciones via REST ─────────────────
+  api:
+    build:
+      context: ./api
+      dockerfile: Dockerfile
+    container_name: flask_api
+    restart: unless-stopped
+    ports:
+      - "5000:5000"
+    environment:
+      - MONGO_URI=mongodb://mongodb:27017/
+    depends_on:
+      mongodb:
+        condition: service_healthy
+
+volumes:
+  mongo_data:
