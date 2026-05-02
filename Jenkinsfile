@@ -23,22 +23,20 @@ pipeline {
         }
 
         stage('Ejecutar Spark NLP') {
-            steps {
-                sh '''
-                    docker build -t sentimentstream-spark ./spark
-                    docker run --rm \
-                      --network sentimentstream_default \
-                      -v "$(pwd)/spark:/spark_scripts" \
-                      -v "$(pwd)/data:/data" \
-                      sentimentstream-spark \
-                      /opt/spark/bin/spark-submit \
-                      --master local[*] \
-                      --conf spark.jars.ivy=/tmp/.ivy2 \
-                      --packages org.mongodb.spark:mongo-spark-connector_2.12:10.2.1 \
-                      /spark_scripts/sentiment_job.py
-                '''
-            }
-        }
+    steps {
+        sh '''
+            docker build -t sentimentstream-spark ./spark
+            docker run --rm \
+              --network sentimentstream_default \
+              sentimentstream-spark \
+              /opt/spark/bin/spark-submit \
+              --master local[*] \
+              --conf spark.jars.ivy=/tmp/.ivy2 \
+              --packages org.mongodb.spark:mongo-spark-connector_2.12:10.2.1 \
+              /spark_scripts/sentiment_job.py
+        '''
+    }
+}
 
         stage('Verificar API') {
             steps {
