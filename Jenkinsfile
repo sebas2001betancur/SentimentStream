@@ -40,10 +40,10 @@ stage('Ejecutar Spark NLP') {
 }
 
         stage('Verificar API') {
-            steps {
-                sh 'curl -sf http://localhost:5000/health && echo "API OK"'
-            }
-        }
+    steps {
+        sh 'curl -sf http://flask_api:5000/health && echo "✅ API OK"'
+         }
+
     }
 
     post {
